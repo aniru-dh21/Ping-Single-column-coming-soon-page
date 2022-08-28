@@ -1,6 +1,7 @@
 # Frontend Mentor - Ping coming soon page
 
 ![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)
+Live Demo of the site is here: [Ping-Single-column-coming-soon-page](https://aniru-dh21.github.io/Ping-Single-column-coming-soon-page/).
 
 ## Welcome! 👋
 
